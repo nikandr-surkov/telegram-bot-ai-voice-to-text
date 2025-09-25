@@ -1,0 +1,9 @@
+{
+    "name": "telegram-voice-transcriber",
+    "version": "1.0.0",
+    "description": "Voice note transcriber bot for Telegram",
+    "main": "api/bot.js",
+    "scripts": {
+        "deploy": "vercel --prod"
+    }
+}
